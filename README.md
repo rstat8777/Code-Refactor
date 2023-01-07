@@ -8,11 +8,8 @@
  I learned to make a website more accessible and the code more concise
  I also changed colors, so it is easier to see things. I used coolor website to make it easier to read. 
  I added alt attributes for the pictures.
-<<<<<<< HEAD
 
 
-=======
->>>>>>> fb2aee65abd3ec1482728552ffd00ef53919e48b
 ## License
 
 MIT License
